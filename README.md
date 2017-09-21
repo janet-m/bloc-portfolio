@@ -2,5 +2,5 @@
 
 A showcase of my work at Bloc.
 
-First branch: checkpoint-4-porfolio.
-Second branch: checkpoint-5-porfolio.
+First branch: checkpoint-4-portfolio.
+Second branch: checkpoint-5-portfolio.
